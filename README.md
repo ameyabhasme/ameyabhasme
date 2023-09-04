@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameya Bhasme</h1>
-<p align="center"> <img src= "https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/Hipster-Developer-Dice-1024x640.jpg" alt="Image"/> </p>
+<p align="center"> <img src= "https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="Image"/> </p>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameyabhasme&label=Profile%20views&color=0e75b6&style=flat" alt="ameyabhasme" /> </p>
